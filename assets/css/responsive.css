@@ -1,0 +1,456 @@
+@media only screen and (max-width:580px){
+	.master_plan .img_wrapper{
+		width: 100%;
+		height: 100%;
+	  }
+	  .btnRequest{
+		width: 100% !important;
+	  }
+	  .navbar_wrapper{
+		display: unset;
+	  }
+	  #navbarPractice {
+	    padding-left: 0rem!important;
+	}
+	#book_site{
+		padding-right: 0px !important;
+		padding-left: 0px;
+	  }
+}
+@media only screen and (max-width:767px){
+	.sliderImagesDetails
+	{
+		height:auto;
+	}
+	.rrSlideDetails{
+	 height:auto;   
+	}
+	.cardFormRegisterDet1
+	{
+	    left: auto;
+    width: auto;
+	}
+   .cardFormRegisterDett
+	{
+	right: 0px;
+    width: auto;
+	}
+
+/*iframe{
+	width:auto!important;
+	height:auto!important;
+	margin-top:10px;
+	object-fit:cover;
+}*/
+ul.nav.nav-pills {
+    /* margin-top: 13px; */
+    text-align: center;
+    /* border-bottom: 1px solid #ccc; */
+    width: 53%;
+    margin: auto;
+}
+.cardBhkApartment,.cardUnitArea{
+	width:auto;
+	height: auto;
+}
+.cardTextDetails h1{
+	font-size:18px;
+}
+.cardTextDetails h2{
+	font-size: 18px;
+}
+.Amenities h1,.cardBhkApartment h1,.cardUnitArea h1,.floorplans h1,.location h1,.priceBannerDet,.sipanivivezaDetails h1,.structureDet h1{
+	font-size:20px;
+}
+.cardFormRegisterDet{
+	width: auto !important;
+	margin-top: 10px;
+	left: 0px;
+}
+.cardTextDetails{
+	max-width:100%;
+	background:#000;
+	font-size:18px;
+	margin-top:0!important;
+}
+.sliderImagesDetails h2::before{
+	margin-left:17px;
+}
+.sliderImagesDetails h2::after{
+	margin-left:17px;
+}
+.sipanivivezaDetails img{
+	width: 100%;
+	height: auto;
+	margin-bottom: 10px;
+}
+.sliderImagesDetails p{
+	font-size: 16px;
+}
+.galleryDet img{
+	height: 244px;
+}
+.specificReqDet{
+	margin-left: unset;
+}
+.modal-content{
+	width: 341px;
+	height: auto;
+}
+.formRegister {
+    margin-top: 30px;
+}
+.siteDetails{
+ margin-bottom:30px;   
+}
+.registerDetails{
+	width: 90%;
+}
+.carouselImagesPrime{
+	height: 200px !important;
+}
+.carouselImagesPrime1{
+	height: 380px !important;
+}
+.specificationDet h1{
+	font-size: 20px;
+	font-weight: bold;
+}
+.specificationDet h2{
+	font-size: 18px;
+}
+.anchor{
+  scroll-margin-top: 22rem;
+}
+.thankuDetails .card{
+	padding: unset;
+}
+.cardThankuDet{
+	margin-top: unset;
+}
+.thankuDetails{
+	height: auto;
+}
+.cardThankuDet h1{
+	font-size: 18px;
+}
+.nearbyLocation {
+    margin: 30px 0 0 28px;
+}
+.thankuDetails{
+	padding: 10px;
+}
+.reliabForemost{
+    text-align: justify !important;
+}
+.contactFooter>.container-fluid>.row div:nth-child(2) p{
+	padding-top: 0px;
+	padding-left: unset;
+}
+.contactFooter>.container-fluid>.row div:nth-child(3) p{
+	padding-top: 0px;
+	padding-left: unset;
+}
+.greenBay{
+	margin-top: 0;
+}
+.rrSlideDetails h1, .rrSlideDetails h2{
+	font-size: 18px;
+	margin-top: 10px;
+}
+.topHeader{
+	margin-top: 111px;
+}
+.descriptionDet p{
+	text-align: justify;
+}
+.descriptionDet h1{
+	margin-top: 20px;
+}
+.rajGreenDescript::after{
+	width: 44%;
+}
+.rajGreenPrice::after{
+	width: 16%;
+}
+.footerIconLocation{
+	width: unset;
+}
+.nearestLocationDet {
+    margin-bottom: 30px;
+}
+.footerDetails h4{
+	margin-bottom: 30px;
+}
+.snnGreenNav{
+	margin-left: 21px;
+}
+}
+
+
+
+@media screen and (max-width: 1199px)  and (min-width: 992px){
+	.nav-item{
+		padding-right: 9px;
+	}
+	.cardFormRegisterDet{
+		margin-left: 0 !important;
+        margin: 10px 0;
+	}
+	.sipanivivezaDetails{
+		margin-top: 0px;
+	}
+	.specificationDet ul li{
+		text-indent: -13px;
+		margin-left: 13px;
+	}
+	.addressSite{
+		margin-left: 30px;
+	}
+	.registerDetails{
+		width: 96%;
+	}
+	.nearbyLocation{
+	  text-indent: -10px;
+      margin: 70px 0px 0px 10px;
+    }
+    .nearbyLocation li{
+    	padding-left: 5px;
+    }
+    .cardUnitArea{
+    	width: 230px;
+    }
+    .cardBhkApartment{
+    	width: 230px;
+    }
+    .carouselImagesPrime{
+    	height: 415px !important;
+    }
+     .carouselImagesPrime1{
+    	height: 415px !important;
+    }
+    .sipanivivezaDetails{
+    	margin-top: 30px;
+    }
+    .pricingDetails {
+        margin-top: 30px;
+    }
+   .contactFooter>.container>.row div:first-child p {
+       font-size: 11px;
+    }
+	.contactFooter>.container>.row div:nth-child(2) p {
+	    font-size: 11px;
+	}
+	.contactFooter>.container>.row div:nth-child(3) p {
+      font-size: 11px;
+      padding-top: 16px;
+    }
+    .siteDetails{
+    	margin-bottom: 65px;
+    }
+    .rrSlideDetails{
+    	height: auto;
+    	background-size: unset;
+    }
+    .cardUnitArea p{
+    	font-size: 14px;
+    }
+    .footerIconLocation li{
+    	text-indent: -12px;
+    	margin-left: 12px;
+    }
+    .phoneIconDet p{
+    	font-size: 14px;
+    }
+    .addressDetails i{
+    	width: 95px;
+    }
+    .addressDetails p{
+    	font-size: 14px;
+    }
+}
+
+@media (min-width: 768px) and (max-width : 991px){
+	.cardTextDetails h1{
+		font-size: 16px;
+	}
+	.cardTextDetails h2{
+		font-size: 16px;
+	}
+	.cardTextDetails p{
+		font-size: 16px;
+	}
+	.sliderImagesDetails h2::before,.sliderImagesDetails h2::after{
+		margin-left: 4px;
+		width: 96%;
+	}
+	.cardFormRegisterDet{
+		margin-top: 14px;
+        margin-bottom: 14px;
+		width: auto;
+	}
+	.cardFormRegisterDet h1, h3{
+		font-size: 15px;
+	}
+	.cardFormRegisterDet button{
+		margin-bottom: 10px;
+	}
+	.sideButton button{
+		right: -52px;
+		top: 250px;
+	}
+	.sliderImagesDetails{
+		height: auto;
+	}
+	.sipanivivezaDetails img{
+		height: auto;
+	}
+	.formRegister input{
+		width: auto;
+	}
+	.registerDetails{
+		width: 98%;
+	}
+	.float{
+		right: 40px;
+	}
+	.reachUsDet{
+		font-size: 14px;
+	}
+	.specificationDet ul li{
+		text-indent: -15px;
+        margin-left: 10px;
+	}
+	.addressSite{
+		margin-left: 17px;
+	}
+	.estateDet{
+		font-size: 14px;
+	}
+    .siteDetails{
+    	margin-bottom: 65px;;
+    }
+    #navbarPractice ul{
+    	padding-left: 10px;
+    }
+    .galleryDet img{
+    	height: 198px;
+    }
+    .specificReqDet{
+    	margin-left: 50px;
+    }
+    .carouselImagesPrime{
+       height: auto !important;
+    }
+    .carouselImagesPrime1{
+       height: auto !important;
+    }
+    .anchor{
+ 	 	scroll-margin-top: 26rem;
+	}
+	.sideButton button{
+		margin-bottom: 5%;
+	}
+	.sipanivivezaDetails{
+		margin-top: 30px;
+	}
+	.card.plotsDetails h1{
+       font-size: 24px;
+    }
+    .cardBhkApartment{
+    	margin: 0 auto;
+    }
+    .cardUnitArea{
+    	margin: 0 auto;
+    }
+    .descriptionDet h1{
+    	margin-top: 30px;
+    }
+    .rajGreenDescript::after{
+    	width: 21%;
+    }
+    .rajGreenPrice::after{
+    	width: 8%;
+    }
+    .rajGreenGallery::after{
+    	width: 14%;
+    }
+    .Amenities h1::after{
+    	width: 16%;
+    }
+    .specificationDetails h1::after{
+    	width: 21%;
+    }
+    .rrSlideDetails{
+    	height: auto;
+    	background-size: unset;
+    }
+    .iconDetails {
+      padding-right: 3rem;
+    }
+    .rrSlideDetails h1, .rrSlideDetails h2{
+    	font-size: 22px;
+    }
+    .descriptionDet p{
+    	text-align: justify;
+    }
+    .footerIconLocation li{
+    	text-indent: -12px;
+    	margin-left: 12px;
+    	font-size: 14px;
+    }
+    .phoneIconDet i{
+    	width: 50px;
+    }
+    .addressDetails i{
+    	width: 182px;
+    }
+    .addressDetails p{
+    	font-size: 14px;
+    }
+    .phoneIconDet p{
+    	font-size: 14px;
+    }
+    .contactFooter>.container-fluid>.row div:first-child p{
+    	font-size: 11px;
+    }
+    .contactFooter>.container-fluid>.row div:nth-child(2) p{
+    	font-size: 11px;
+    }
+    .contactFooter>.container-fluid>.row div:nth-child(3) p{
+    	font-size: 11px;
+    }
+}
+@media (min-width: 1366px) and (max-width : 1440px){
+	/*.registerDetails{
+		width: 66%;
+	}*/
+	.addressSite{
+	    margin-left: 88px;
+    }
+}
+@media (min-width: 1450px) and (max-width : 1600px){
+	.registerDetails{
+		width: 60%;
+	}
+	.addressSite{
+		margin-left: 25%;
+	}
+	.addressDetails i{
+		width: 63px;
+	}
+}
+@media (min-width: 1700px) and (max-width : 1920px){
+	.registerDetails{
+		width: 49%;
+	}
+	.sideButton button{
+		margin-top: 21%;
+	}
+	.addressSite{
+		margin-left: 25%;
+	}
+	.addressDetails i{
+		width: 50px;
+	}
+}
